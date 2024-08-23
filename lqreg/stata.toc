@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p lqreg Logistic quantile regression for bounded outcomes Use lqreg With STATA 18
