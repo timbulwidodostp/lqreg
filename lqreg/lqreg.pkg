@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'lqreg': Logistic quantile regression for bounded outcomes Use lqreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lqreg.ado
+f lqreg.sthlp
+f lqreg_postestimation.sthlp
+f lqregplot.ado
+f lqregplot.sthlp
+f lqregpred.ado
