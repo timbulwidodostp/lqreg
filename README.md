@@ -1,6 +1,8 @@
 # lqreg
 Logistic quantile regression for bounded outcomes Use lqreg With STATA 18
 
+https://www.youtube.com/watch?v=Qpn-H9LKfH0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
